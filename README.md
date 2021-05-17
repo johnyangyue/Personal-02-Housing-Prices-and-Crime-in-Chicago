@@ -1,7 +1,7 @@
 # Housing Prices and Crime in Chicago
 
 ## Introduction
-The project explores the Chicago crime data and its relationship with the community area level housing prices. The goal is to obtain insights on how the housing market in each community area reacts to changes in criminal activities. The result shows that the correlations between housing prices and crime vary by community area. Moreover, the correlation becomes more negative as the median housing price increases. One possible hypothesis is that local economic conditions such as infrastructures and amenities may play a role in determining the elasticity of the housing price to crime.
+The project explores the Chicago crime data and its relationship with the community area level housing prices. The goal is to obtain insights on how the housing market in each community area reacts to changes in criminal activities. The result shows that the correlations between housing prices and crime vary by community area. Moreover, the correlation becomes more negative as the median housing price increases. One possible hypothesis is that local economic factors such as infrastructures and amenities may play a role in determining the elasticity of the housing price to crime.
 
 ## Data Source
 The Chicago crime data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system. It is available for public query via Kaggle/Google Cloud.
