@@ -9,6 +9,3 @@ The Chicago crime data is extracted from the Chicago Police Department's CLEAR (
 The community area level housing price data is obtained from [Zillow](https://www.zillow.com/research/data/). The dataset represents a smoothed, seasonally adjusted measure of typical home value across region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 
 The population data used to calculate crime rate for each community area is from the U.S. 2010 Census. It can be accessed via [Chicago Metropolitan Agency for Planning](https://datahub.cmap.illinois.gov/dataset/2010-census-data-summarized-to-chicago-community-areas).
-
-## Directory
-The iPython Notebook file "Yue_Yang_Crime_Housing_Prices.ipynb" contains all the code used in this project. 
